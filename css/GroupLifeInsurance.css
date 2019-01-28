@@ -163,10 +163,11 @@ li.dropdown {
 
 }
 
-.text{
-	padding-left: 20%; 	
+.text{ 	
 	position: static;
+	padding-left: 20%;
 }
+
 
 .section{
 	padding: 1% 7%;
