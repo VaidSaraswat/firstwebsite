@@ -284,11 +284,11 @@ span{
 	.side-nav .btn-close{
 		font-size: 15px;
 	}
-
-	.side-nav a{
+	.side-nav span a{
 		padding-top: 0px;
 		padding-bottom: 3px;
 	}
+
 }
 
 @media screen and (min-width : 320px) and (max-width : 657px){
